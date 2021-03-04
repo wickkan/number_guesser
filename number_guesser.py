@@ -1,7 +1,7 @@
 """
 Number guesser in Python. How the algorithm works:
 1. User chooses a range
-2. Program produces a random integer that the user must guess
+2. Program produces a random integer between the range that the user must guess
 3. If the user guesses too high then the program will print: Guess is too high!
 4. If the user guesses too low then the program will print: Guess is too low!
 5. Once the user guesses the number the program will print: You have guessed correctly!
